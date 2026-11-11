@@ -1,0 +1,588 @@
+{
+ "vid": "VID-1",
+ "slug": "vid-1",
+ "title": "20 Things NBA Players Did in the 1970s That Would NEVER Be Allowed Today",
+ "youtube_url": "",
+ "updated": "2026-11-10",
+ "music": [
+  {
+   "title": "Lightless Dawn",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Lightless Dawn\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Long Note Four",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Long Note Four\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Long Note Two",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Long Note Two\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Despair and Triumph",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Despair and Triumph\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Heartbreaking",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Heartbreaking\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  }
+ ],
+ "music_note": "Music was edited for this video: levels adjusted, ducked under the narration, crossfaded between tracks, faded at the end and cut to the length of the video.",
+ "cc": [
+  {
+   "title": "A basketball game between Danan (France) and Maccabi Haifa (Israel) The French team won with 109;82 hit (FL61608819)",
+   "author": "IPPA photographer",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_basketball_game_between_Danan_(France)_and_Maccabi_Haifa_(Israel)_The_French_team_won_with_109;82_hit_(FL61608819).jpg"
+  },
+  {
+   "title": "Kemper Arena",
+   "author": "Garrett Fuller",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kemper_Arena.JPG"
+  },
+  {
+   "title": "OmahaCivic 2010",
+   "author": "JonClee86",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:OmahaCivic_2010.jpg"
+  },
+  {
+   "title": "Kansas Jayhawks Open Practice at the 2016 March Madness Opening Rounds (25817826036)",
+   "author": "Phil Roeder from Des Moines, IA, USA",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kansas_Jayhawks_Open_Practice_at_the_2016_March_Madness_Opening_Rounds_(25817826036).jpg"
+  },
+  {
+   "title": "Watching a blank screen",
+   "author": "ToastyKen",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/24226200@N00/1125019024"
+  },
+  {
+   "title": "Ann Meyers at the 1976 Olympics",
+   "author": "Los Angeles Herald Examiner collection",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ann_Meyers_at_the_1976_Olympics.jpg"
+  },
+  {
+   "title": "A basketball game between Danan (France) and Maccabi Haifa (Israel) The French team won with 109;82 hit (FL61609916)",
+   "author": "IPPA photographer",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_basketball_game_between_Danan_(France)_and_Maccabi_Haifa_(Israel)_The_French_team_won_with_109;82_hit_(FL61609916).jpg"
+  },
+  {
+   "title": "Lipofsky-Boston-Garden",
+   "author": "Copyright by Steve Lipofsky Basketballphoto.com",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lipofsky-Boston-Garden.jpg"
+  },
+  {
+   "title": "A basketball game between Danan (France) and Maccabi Haifa (Israel) The French team won with 109;82 hit (FL61609295)",
+   "author": "IPPA photographer",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_basketball_game_between_Danan_(France)_and_Maccabi_Haifa_(Israel)_The_French_team_won_with_109;82_hit_(FL61609295).jpg"
+  },
+  {
+   "title": "A basketball game between Danan (France) and Maccabi Haifa (Israel) The French team won with 109;82 hit (FL61608614)",
+   "author": "IPPA photographer",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_basketball_game_between_Danan_(France)_and_Maccabi_Haifa_(Israel)_The_French_team_won_with_109;82_hit_(FL61608614).jpg"
+  },
+  {
+   "title": "A basketball game between Danan (France) and Maccabi Haifa (Israel) The French team won with 109;82 hit (FL61608942)",
+   "author": "IPPA photographer",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_basketball_game_between_Danan_(France)_and_Maccabi_Haifa_(Israel)_The_French_team_won_with_109;82_hit_(FL61608942).jpg"
+  },
+  {
+   "title": "Rubin Control Room (rubin-20210630 085537-CC)",
+   "author": "Rubin Obs/NSF/AURA",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rubin_Control_Room_(rubin-20210630_085537-CC).tiff"
+  },
+  {
+   "title": "David Stern",
+   "author": "Cody Mulcahy (Flickr profile and personal homepage)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:David_Stern.jpg"
+  },
+  {
+   "title": "Television news cameras set up in an auditorium (13106194975)",
+   "author": "City of Boston Archives from West Roxbury, United States",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Television_news_cameras_set_up_in_an_auditorium_(13106194975).jpg"
+  },
+  {
+   "title": "Magic Johnson at Lakers NBA championship rally",
+   "author": "Jayne Kamin, Los Angeles Times",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_at_Lakers_NBA_championship_rally.jpg"
+  },
+  {
+   "title": "A basketball game between Danan (France) and Maccabi Haifa (Israel) The French team won with 109;82 hit (FL61608638)",
+   "author": "IPPA photographer",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_basketball_game_between_Danan_(France)_and_Maccabi_Haifa_(Israel)_The_French_team_won_with_109;82_hit_(FL61608638).jpg"
+  },
+  {
+   "title": "Arnold \"Red\" Auerbach (10559397575)",
+   "author": "City of Boston Archives from West Roxbury, United States",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Arnold_\"Red\"_Auerbach_(10559397575).jpg"
+  },
+  {
+   "title": "Quinn Buckner, Red Auerbach, Mayor Raymond L. Flynn, Carlos Clark (9516896275)",
+   "author": "City of Boston Archives from West Roxbury, United States",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Quinn_Buckner,_Red_Auerbach,_Mayor_Raymond_L._Flynn,_Carlos_Clark_(9516896275).jpg"
+  },
+  {
+   "title": "Transport for Wales no smoking or vaping sign",
+   "author": "Tk420",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Transport_for_Wales_no_smoking_or_vaping_sign.jpg"
+  },
+  {
+   "title": "Magic Johnson at Lakers championship rally, 1980",
+   "author": "Jayne Kamin, Los Angeles Times",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_at_Lakers_championship_rally,_1980.jpg"
+  }
+ ],
+ "free": [
+  {
+   "title": "Bob Lanier College",
+   "author": "Unknown St. Bonaventure University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Bob_Lanier_College.jpg"
+  },
+  {
+   "title": "Kareem Abdul-Jabbar 1975",
+   "author": "Steve Jenner",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kareem_Abdul-Jabbar_1975.jpeg"
+  },
+  {
+   "title": "Inglewood Forum at night",
+   "author": "Northwalker",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Inglewood_Forum_at_night.jpg"
+  },
+  {
+   "title": "Municipal Auditorium Kansas City Missouri",
+   "author": "User:Charvex",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Municipal_Auditorium_Kansas_City_Missouri.jpg"
+  },
+  {
+   "title": "Tom Heinsohn and Elgin Baylor, Game 1 of the 1963 NBA Finals",
+   "author": "Unknown for the United Press International",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Tom_Heinsohn_and_Elgin_Baylor,_Game_1_of_the_1963_NBA_Finals.jpeg"
+  },
+  {
+   "title": "Lusia Harris DSU",
+   "author": "unknown Delta State University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Lusia_Harris_DSU.jpg"
+  },
+  {
+   "title": "Tom heinsohn Celt",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Tom_heinsohn_Celt.JPG"
+  },
+  {
+   "title": "John Y. Brown Jr. (KY)",
+   "author": "Office of the Governor of Kentucky",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Y._Brown_Jr._(KY).png"
+  },
+  {
+   "title": "Stern555",
+   "author": "Pmandawg88 at English Wikipedia",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Stern555.jpg"
+  },
+  {
+   "title": "Nate Archibald 1974",
+   "author": "Malcolm W. Emmons",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Nate_Archibald_1974.jpeg"
+  },
+  {
+   "title": "Kermit Washington",
+   "author": "Unknown American University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kermit_Washington.jpg"
+  },
+  {
+   "title": "The Cincinnati Enquirer 1981-03-15 page C-8",
+   "author": "The Cincinnati Enquirer",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Cincinnati_Enquirer_1981-03-15_page_C-8.jpg"
+  },
+  {
+   "title": "Dave Cowens",
+   "author": "Robert Kingsbury",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Dave_Cowens.jpeg"
+  },
+  {
+   "title": "1961 Chicago Packers vs. Boston Celtics",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:1961_Chicago_Packers_vs._Boston_Celtics.jpeg"
+  },
+  {
+   "title": "Dave Cowens and Dave Chadwick 1969",
+   "author": "Steve Adams",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Dave_Cowens_and_Dave_Chadwick_1969.jpeg"
+  },
+  {
+   "title": "Lenny Wilkens 1968",
+   "author": "Malcolm Emmons",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Lenny_Wilkens_1968.jpeg"
+  },
+  {
+   "title": "Utep v usf basketball 1967",
+   "author": "Unknown",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Utep_v_usf_basketball_1967.jpg"
+  },
+  {
+   "title": "Oscar Robertson Bucks",
+   "author": "Vernon J. Biever",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Oscar_Robertson_Bucks.jpeg"
+  },
+  {
+   "title": "Kareem Abdul-Jabbar 1974",
+   "author": "Frank Bryan",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kareem_Abdul-Jabbar_1974.jpeg"
+  },
+  {
+   "title": "Magic johnson lakers 1980 02",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Magic_johnson_lakers_1980_02.jpg"
+  },
+  {
+   "title": "Nate archibald scoring utep",
+   "author": "Unknown",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Nate_archibald_scoring_utep.jpg"
+  },
+  {
+   "title": "Michael Jordan vs Bullets 30 Jan 1985 (1)",
+   "author": "Gene Sweeney Jr.",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_vs_Bullets_30_Jan_1985_(1).jpg"
+  },
+  {
+   "title": "Jim McMillian Bologna",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Jim_McMillian_Bologna.jpg"
+  },
+  {
+   "title": "Fred Carter 1969",
+   "author": "Baltimore Bullets / NBA",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Fred_Carter_1969.JPG"
+  },
+  {
+   "title": "Wes Unseld and Kareem Abdul-Jabbar",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Wes_Unseld_and_Kareem_Abdul-Jabbar.jpeg"
+  },
+  {
+   "title": "Bill Walton – Trail Blazers (7)",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Bill_Walton_–_Trail_Blazers_(7).jpeg"
+  },
+  {
+   "title": "Bill Walton – Trail Blazers (1)",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Bill_Walton_–_Trail_Blazers_(1).jpg"
+  },
+  {
+   "title": "Accessory and cornuate navicular bone on dorsoplantar X-ray",
+   "author": "Mikael Häggström",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Accessory_and_cornuate_navicular_bone_on_dorsoplantar_X-ray.jpg"
+  },
+  {
+   "title": "Bob Gross",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Bob_Gross.jpg"
+  },
+  {
+   "title": "Spencer Haywood College",
+   "author": "Unknown University of Detroit",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Spencer_Haywood_College.jpg"
+  },
+  {
+   "title": "U.S. Supreme Court Building, Washington, D.C. LCCN2017878872",
+   "author": "Farm Security Administration/Office of War Information Color Photographs",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:U.S._Supreme_Court_Building,_Washington,_D.C._LCCN2017878872.jpg"
+  },
+  {
+   "title": "Rudy Tomjanovich (1970)",
+   "author": "Unidentified (Ensian published by University of Michigan)",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Rudy_Tomjanovich_(1970).png"
+  },
+  {
+   "title": "Larry O'Brien 1961",
+   "author": "Robert LeRoy Knudsen",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Larry_O'Brien_1961.jpg"
+  },
+  {
+   "title": "Rudy T Space and Missile Center Feb 26, 2009",
+   "author": "Stephen Schester; cropped by User:Blueag9.",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Rudy_T_Space_and_Missile_Center_Feb_26,_2009.jpg"
+  }
+ ],
+ "stock": [
+  {
+   "title": "group of photographers capturing event indoors",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/group-of-photographers-capturing-event-indoors-36363423/"
+  },
+  {
+   "title": "indoor basketball court with hoops in sports club",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/indoor-basketball-court-with-hoops-in-sports-club-5407033/"
+  },
+  {
+   "title": "Free back personal trainer gym",
+   "author": "rawpixel",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.rawpixel.com/image/5925411/photo-image-public-domain-free-workout"
+  },
+  {
+   "title": "Business Working",
+   "author": "Marc Chouinard",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://stocksnap.io/photo/business-working-PHE63L27S6"
+  },
+  {
+   "title": "Boardroom Business",
+   "author": "Olu Eletu",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://stocksnap.io/photo/boardroom-business-KCIU8RWM09"
+  },
+  {
+   "title": "a smartphone in close up photography",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/a-smartphone-in-close-up-photography-7662059/"
+  },
+  {
+   "title": "basketball coach strategizing on tactics board",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/basketball-coach-strategizing-on-tactics-board-32688082/"
+  },
+  {
+   "title": "group of friends celebrating watching sports indoors",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/group-of-friends-celebrating-watching-sports-indoors-36766039/"
+  },
+  {
+   "title": "physiotherapist at work",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/physiotherapist-at-work-5794059/"
+  },
+  {
+   "title": "ice bathing adventure at vibrant sunrise",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/ice-bathing-adventure-at-vibrant-sunrise-35874553/"
+  },
+  {
+   "title": "Two basketball referees standing side-by-side. The one on the left is holding a basketball.",
+   "author": "vatoyiit",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://wordpress.org/photos/photo/5996595b36/"
+  },
+  {
+   "title": "No Smoking sign is seen",
+   "author": "rawpixel",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.rawpixel.com/image/3287534/free-photo-image-australia-banister-bars"
+  },
+  {
+   "title": "Athlete Water",
+   "author": "Healthy Living",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://stocksnap.io/photo/athlete-water-IJWJDIWG0Z"
+  },
+  {
+   "title": "hands with smartphones at concert",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/hands-with-smartphones-at-concert-15338775/"
+  },
+  {
+   "title": "physiotherapist massaging knee and leg",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/physiotherapist-massaging-knee-and-leg-20860603/"
+  },
+  {
+   "title": "professional counseling session in modern office",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/professional-counseling-session-in-modern-office-36729385/"
+  },
+  {
+   "title": "Lab tube",
+   "author": "rawpixel",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.rawpixel.com/image/3338342/free-photo-image-blood-collection-tube-cc0-creative-commons"
+  },
+  {
+   "title": "soccer referee blowing whistle on field in hanoi",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/soccer-referee-blowing-whistle-on-field-in-hanoi-29582086/"
+  }
+ ],
+ "ai_scenes": 70,
+ "thumb_credits": [],
+ "sources": [],
+ "extra_lines": [
+  "Maps: Natural Earth (public domain).",
+  "Fonts: Cinzel, Oswald and Playfair Display (SIL Open Font License).",
+  "Sound effects and image textures (grain, dust, scratches, tape noise) were generated for this video."
+ ]
+}
