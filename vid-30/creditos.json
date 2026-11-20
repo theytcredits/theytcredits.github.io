@@ -1,0 +1,412 @@
+{
+ "vid": "VID-30",
+ "slug": "vid-30",
+ "title": "The Punch That Showed How Violent the Old NBA Really Was",
+ "youtube_url": "",
+ "updated": "2026-11-20",
+ "music": [
+  {
+   "title": "Despair and Triumph",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Despair and Triumph\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Heartbreaking",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Heartbreaking\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Lightless Dawn",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Lightless Dawn\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Long Note Four",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Long Note Four\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Long Note Two",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Long Note Two\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  }
+ ],
+ "music_note": "Music was edited for this video: levels adjusted, ducked under the narration, crossfaded between tracks, faded at the end and cut to the length of the video.",
+ "cc": [
+  {
+   "title": "Jeff Van Gundy (cropped)",
+   "author": "Keith Allison from Baltimore, USA",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jeff_Van_Gundy_(cropped).jpg"
+  },
+  {
+   "title": "Marcus Smart 2021",
+   "author": "Erik Drost",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Marcus_Smart_2021.jpg"
+  },
+  {
+   "title": "Arnold \"Red\" Auerbach (10559397575)",
+   "author": "City of Boston Archives from West Roxbury, United States",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Arnold_\"Red\"_Auerbach_(10559397575).jpg"
+  },
+  {
+   "title": "Larry Bird Lipofsky (high quality)",
+   "author": "Steve Lipofsky www.Basketballphoto.com",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Larry_Bird_Lipofsky_(high_quality).jpg"
+  },
+  {
+   "title": "James Worthy attempting layup vs Houston Rockets 1986-05-17",
+   "author": "Joe Kennedy, Los Angeles Times",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:James_Worthy_attempting_layup_vs_Houston_Rockets_1986-05-17.jpg"
+  },
+  {
+   "title": "Ralph Sampson 2010",
+   "author": "jammmick",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ralph_Sampson_2010.jpg"
+  },
+  {
+   "title": "Rick Mahorn",
+   "author": "Dave Hogg from Royal Oak, MI, USA",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rick_Mahorn.jpg"
+  },
+  {
+   "title": "Laimbeer 2007",
+   "author": "Dave Hogg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Laimbeer_2007.jpg"
+  },
+  {
+   "title": "Barkley Lipofsky",
+   "author": "Copyright held by Steve Lipofsky Basketballphoto.com",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Barkley_Lipofsky.jpg"
+  },
+  {
+   "title": "Doc Rivers 2013 (cropped)",
+   "author": "Keith Allison",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Doc_Rivers_2013_(cropped).jpg"
+  },
+  {
+   "title": "Greg Anthony (cropped)",
+   "author": "Erik Drost",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Greg_Anthony_(cropped).jpg"
+  },
+  {
+   "title": "PJ Brown 03 24 2008",
+   "author": "The original uploader was Parkerjh at English Wikipedia.",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:PJ_Brown_03_24_2008.jpg"
+  },
+  {
+   "title": "Patrick Ewing ca. 1995 cropped",
+   "author": "User:Seidenstud (Seidenstud on the English Wikipedia)",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Patrick_Ewing_ca._1995_cropped.jpg"
+  },
+  {
+   "title": "Allan Houston 2010",
+   "author": "Mike_D'Antoni_and_Allan_Houston.jpg: Chamber of Fear derivative work: Lpdrew",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Allan_Houston_2010.jpg"
+  },
+  {
+   "title": "Larry Johnson (cropped)",
+   "author": "Bryan Horowitz",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Larry_Johnson_(cropped).jpg"
+  },
+  {
+   "title": "Lipofsky-John Starks",
+   "author": "Cavic = Steve Lipofsky",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lipofsky-John_Starks.jpg"
+  },
+  {
+   "title": "Alonzo Mourning (cropped)",
+   "author": "Keith Allison",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Alonzo_Mourning_(cropped).jpg"
+  }
+ ],
+ "free": [
+  {
+   "title": "Al Attles 1970",
+   "author": "Golden State Warriors",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Al_Attles_1970.JPG"
+  },
+  {
+   "title": "Louis Orr v Darryl Dawkins, The Cincinnati Enquirer 1981-03-15 page C-8",
+   "author": "The Cincinnati Enquirer",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Louis_Orr_v_Darryl_Dawkins,_The_Cincinnati_Enquirer_1981-03-15_page_C-8.jpg"
+  },
+  {
+   "title": "Madison Square Garden 1968",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_1968.jpeg"
+  },
+  {
+   "title": "Spencer Haywood College",
+   "author": "Unknown University of Detroit",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Spencer_Haywood_College.jpg"
+  },
+  {
+   "title": "Kareem Abdul-Jabbar 1974",
+   "author": "Frank Bryan",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kareem_Abdul-Jabbar_1974.jpeg"
+  },
+  {
+   "title": "Maurice Lucas",
+   "author": "Portland Trailblazers",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Maurice_Lucas.jpg"
+  },
+  {
+   "title": "Artis Gilmore 1977",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Artis_Gilmore_1977.jpeg"
+  },
+  {
+   "title": "Kermit Washington",
+   "author": "Unknown American University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kermit_Washington.jpg"
+  },
+  {
+   "title": "Rick Barry – Warriors (1)",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Rick_Barry_–_Warriors_(1).jpeg"
+  },
+  {
+   "title": "1967 - Mike Riordan - Allentown Jets - Allentown PA (cropped)",
+   "author": "Self-Scanned",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:1967_-_Mike_Riordan_-_Allentown_Jets_-_Allentown_PA_(cropped).jpg"
+  },
+  {
+   "title": "John Havlicek 1960s",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Havlicek_1960s.jpeg"
+  },
+  {
+   "title": "Bob Gross",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Bob_Gross.jpg"
+  },
+  {
+   "title": "Doug Collins ISU",
+   "author": "Unknown Illinois State University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Doug_Collins_ISU.jpg"
+  },
+  {
+   "title": "Kareem Abdul-Jabbar 1975",
+   "author": "Steve Jenner",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kareem_Abdul-Jabbar_1975.jpeg"
+  },
+  {
+   "title": "Kent Benson 1976",
+   "author": "UPI",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kent_Benson_1976.jpg"
+  },
+  {
+   "title": "Larry O'Brien 1961",
+   "author": "Robert LeRoy Knudsen",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Larry_O'Brien_1961.jpg"
+  },
+  {
+   "title": "Inglewood Forum at night",
+   "author": "Northwalker",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Inglewood_Forum_at_night.jpg"
+  },
+  {
+   "title": "Kevin Kunnert",
+   "author": "Portland Trail Blazers",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kevin_Kunnert.jpg"
+  },
+  {
+   "title": "Rudy Tomjanovich (1970)",
+   "author": "Unidentified (Ensian published by University of Michigan)",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Rudy_Tomjanovich_(1970).png"
+  },
+  {
+   "title": "Calvin Murphy, New York Amsterdam News 1977 12 03 pg20",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Calvin_Murphy,_New_York_Amsterdam_News_1977_12_03_pg20.jpg"
+  },
+  {
+   "title": "Julius Erving – 76ers (1)",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Julius_Erving_–_76ers_(1).jpeg"
+  },
+  {
+   "title": "Tree Rollins blocks a shot (Taps 1977)",
+   "author": "Taps staff",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Tree_Rollins_blocks_a_shot_(Taps_1977).png"
+  },
+  {
+   "title": "Dave Cowens",
+   "author": "Robert Kingsbury",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Dave_Cowens.jpeg"
+  },
+  {
+   "title": "Danny Ainge BYU",
+   "author": "Unknown Brigham Young University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Danny_Ainge_BYU.jpg"
+  },
+  {
+   "title": "December 1983 One on One Dr J vs Larry Bird advertisement by Electronic Arts (cropped)",
+   "author": "Electronic Arts",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:December_1983_One_on_One_Dr_J_vs_Larry_Bird_advertisement_by_Electronic_Arts_(cropped).jpg"
+  },
+  {
+   "title": "Hakeem",
+   "author": "University of Houston Digital Library",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Hakeem.jpg"
+  },
+  {
+   "title": "Rudy T Space and Missile Center Feb 26, 2009",
+   "author": "Stephen Schester; cropped by User:Blueag9.",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Rudy_T_Space_and_Missile_Center_Feb_26,_2009.jpg"
+  },
+  {
+   "title": "Jerry Sichting Purdue",
+   "author": "Unknown Purdue University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Jerry_Sichting_Purdue.jpg"
+  },
+  {
+   "title": "Kevin Johnson",
+   "author": "Me.",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kevin_Johnson.jpg"
+  },
+  {
+   "title": "Isiah-thomas detroit-v-new-york 1985",
+   "author": "RickDikeman",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Isiah-thomas_detroit-v-new-york_1985.jpg"
+  }
+ ],
+ "stock": [],
+ "ai_scenes": 101,
+ "thumb_credits": [],
+ "sources": [],
+ "extra_lines": [
+  "Maps: Natural Earth (public domain).",
+  "Fonts: Cinzel, Oswald and Playfair Display (SIL Open Font License).",
+  "Sound effects and image textures (grain, dust, scratches, tape noise) were generated for this video."
+ ]
+}
