@@ -1,0 +1,462 @@
+{
+ "vid": "VID-33",
+ "slug": "vid-33",
+ "title": "20 Things From Basketball’s Wildest Era That Would Shock Fans",
+ "youtube_url": "",
+ "updated": "2026-11-24",
+ "music": [
+  {
+   "title": "Despair and Triumph",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Despair and Triumph\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Heartbreaking",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Heartbreaking\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Lightless Dawn",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Lightless Dawn\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Long Note Four",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Long Note Four\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  },
+  {
+   "title": "Long Note Two",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech.com",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "credit_lines": [
+    "\"Long Note Two\" Kevin MacLeod (incompetech.com)",
+    "Licensed under Creative Commons: By Attribution 4.0",
+    "https://creativecommons.org/licenses/by/4.0/"
+   ]
+  }
+ ],
+ "music_note": "Music was edited for this video: levels adjusted, ducked under the narration, crossfaded between tracks, faded at the end and cut to the length of the video.",
+ "cc": [
+  {
+   "title": "Indiana Assembly Hall interior (16100187018)",
+   "author": "Chris Kuga",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Indiana_Assembly_Hall_interior_(16100187018).jpg"
+  },
+  {
+   "title": "Kareem Magic Lipofsky (hq)",
+   "author": "Steve Lipofsky www.Basketballphoto.com",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kareem_Magic_Lipofsky_(hq).jpg"
+  },
+  {
+   "title": "Kemper Arena",
+   "author": "Garrett Fuller",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kemper_Arena.JPG"
+  },
+  {
+   "title": "The Spectrum Philadelphia PA",
+   "author": "Bruce C. Cooper (uploader)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Spectrum_Philadelphia_PA.jpg"
+  },
+  {
+   "title": "Kareem Abdul-Jabbar & the 1969 NCAA Championship Team",
+   "author": "J Rosenfeld",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kareem_Abdul-Jabbar_&_the_1969_NCAA_Championship_Team.jpg"
+  },
+  {
+   "title": "Magic Johnson at Lakers championship rally, 1980",
+   "author": "Jayne Kamin, Los Angeles Times",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_at_Lakers_championship_rally,_1980.jpg"
+  },
+  {
+   "title": "Television news cameras set up in an auditorium (13106194975)",
+   "author": "City of Boston Archives from West Roxbury, United States",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Television_news_cameras_set_up_in_an_auditorium_(13106194975).jpg"
+  },
+  {
+   "title": "Adam Silver (15847004771) (cropped)",
+   "author": "Keith Allison from Hanover, MD, USA",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Adam_Silver_(15847004771)_(cropped).jpg"
+  },
+  {
+   "title": "Larry Bird Lipofsky (high quality)",
+   "author": "Steve Lipofsky www.Basketballphoto.com",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Larry_Bird_Lipofsky_(high_quality).jpg"
+  },
+  {
+   "title": "Lipofsky-Kevin McHale (high quality)",
+   "author": "Cavic Steve Lipofsky Basketballphoto.com",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lipofsky-Kevin_McHale_(high_quality).jpg"
+  },
+  {
+   "title": "Lipofsky-Boston-Garden",
+   "author": "Copyright by Steve Lipofsky Basketballphoto.com",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lipofsky-Boston-Garden.jpg"
+  },
+  {
+   "title": "Jordan Lipofsky",
+   "author": "Steve Lipofsky Basketballphoto.com",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jordan_Lipofsky.jpg"
+  },
+  {
+   "title": "Rubin Control Room (rubin-20210630 085537-CC)",
+   "author": "Rubin Obs/NSF/AURA",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rubin_Control_Room_(rubin-20210630_085537-CC).tiff"
+  },
+  {
+   "title": "Chicago Bulls and New Jersey Nets, January 23, 1991",
+   "author": "The Eloquent Peasant",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicago_Bulls_and_New_Jersey_Nets,_January_23,_1991.jpg"
+  },
+  {
+   "title": "Barkley Lipofsky",
+   "author": "Copyright held by Steve Lipofsky Basketballphoto.com",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Barkley_Lipofsky.jpg"
+  },
+  {
+   "title": "Knight with young fans",
+   "author": "Matthewwlloyd",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Knight_with_young_fans.jpg"
+  },
+  {
+   "title": "RuppArena",
+   "author": "The original uploader was Analogue Kid at English Wikipedia.",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:RuppArena.JPG"
+  },
+  {
+   "title": "Dwayne Casey (cropped)",
+   "author": "GabboT",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Dwayne_Casey_(cropped).jpg"
+  },
+  {
+   "title": "Magic Johnson Steve Lipofsky (cropped)",
+   "author": "[copyright held by Steve Lipofsky]",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_Steve_Lipofsky_(cropped).jpg"
+  },
+  {
+   "title": "Tulane University Campus Quad 1980",
+   "author": "Infrogmation of New Orleans",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tulane_University_Campus_Quad_1980.jpg"
+  },
+  {
+   "title": "Cazzaro Jordan",
+   "author": "Gapvenezia",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cazzaro_Jordan.jpg"
+  }
+ ],
+ "free": [
+  {
+   "title": "Bobby Knight, Duke Chronicle 1980-12-02 page 12",
+   "author": "The Chronicle",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobby_Knight,_Duke_Chronicle_1980-12-02_page_12.jpg"
+  },
+  {
+   "title": "President Gerald Ford Meets with 1976 NCAA Champion Indiana University Basketball Team",
+   "author": "Series: Gerald R. Ford White House Photographs, 8/9/1974 - 1/20/1977 Collection: White House Photographic Office Collect",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:President_Gerald_Ford_Meets_with_1976_NCAA_Champion_Indiana_University_Basketball_Team.jpg"
+  },
+  {
+   "title": "Abdul jabbar v larry bird 1987",
+   "author": "Douglas C. Pizac",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Abdul_jabbar_v_larry_bird_1987.jpg"
+  },
+  {
+   "title": "Magic Johnson and Kareem Abdul-Jabbar 1980",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Magic_Johnson_and_Kareem_Abdul-Jabbar_1980.jpg"
+  },
+  {
+   "title": "1981 NBA Playoffs - Philadelphia 76ers at Boston Celtics, April 22, 1981",
+   "author": "National Basketball Association",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:1981_NBA_Playoffs_-_Philadelphia_76ers_at_Boston_Celtics,_April_22,_1981.jpeg"
+  },
+  {
+   "title": "Louis Orr v Darryl Dawkins, The Cincinnati Enquirer 1981-03-15 page C-8",
+   "author": "The Cincinnati Enquirer",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Louis_Orr_v_Darryl_Dawkins,_The_Cincinnati_Enquirer_1981-03-15_page_C-8.jpg"
+  },
+  {
+   "title": "The Cincinnati Enquirer 1981-03-15 page C-8",
+   "author": "The Cincinnati Enquirer",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Cincinnati_Enquirer_1981-03-15_page_C-8.jpg"
+  },
+  {
+   "title": "Lew Alcindor vs USC 1966-67",
+   "author": "Associated Students of the University of California, Los Angeles",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Lew_Alcindor_vs_USC_1966-67.jpg"
+  },
+  {
+   "title": "Lew Alcindor Kareem Abdul-Jabbar UCLA",
+   "author": "New York World-Telegram and the Sun staff photographer",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Lew_Alcindor_Kareem_Abdul-Jabbar_UCLA.jpg"
+  },
+  {
+   "title": "Julius Erving – 76ers (1)",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Julius_Erving_–_76ers_(1).jpeg"
+  },
+  {
+   "title": "Magic johnson lakers 1980 02",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Magic_johnson_lakers_1980_02.jpg"
+  },
+  {
+   "title": "Moses Malone",
+   "author": "Basketball_Legends.jpg: Cpl. Lameen Witter derivative work: JoeJohnson2 (talk)",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Moses_Malone.jpg"
+  },
+  {
+   "title": "Inglewood Forum at night",
+   "author": "Northwalker",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Inglewood_Forum_at_night.jpg"
+  },
+  {
+   "title": "Kurt Rambis SCU",
+   "author": "Unknown Santa Clara University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kurt_Rambis_SCU.jpg"
+  },
+  {
+   "title": "Eg3378 abdul jabbar 1984",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Eg3378_abdul_jabbar_1984.jpg"
+  },
+  {
+   "title": "Stern555",
+   "author": "Pmandawg88 at English Wikipedia",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Stern555.jpg"
+  },
+  {
+   "title": "Dennis Rodman-Jackson Citizen Patriot-3 February 1989",
+   "author": "Uncredited",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Dennis_Rodman-Jackson_Citizen_Patriot-3_February_1989.jpg"
+  },
+  {
+   "title": "Wayman Tisdale, Nancy Reagan & Charles Barkley",
+   "author": "Series: Reagan White House Photographs, 1/20/1981 - 1/20/1989 Collection: White House Photographic Collection, 1/20/1981",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Wayman_Tisdale,_Nancy_Reagan_&_Charles_Barkley.jpg"
+  },
+  {
+   "title": "Jerry Tarkanian LBSU coach in 1970-71",
+   "author": "Long Beach State Athletics",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Jerry_Tarkanian_LBSU_coach_in_1970-71.jpg"
+  },
+  {
+   "title": "Michael Jordan vs Bullets (16 Mar 1988)",
+   "author": "Gene Sweeney Jr.",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Michael_Jordan_vs_Bullets_(16_Mar_1988).jpg"
+  },
+  {
+   "title": "Micheal Ray Richardson",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Micheal_Ray_Richardson.jpg"
+  },
+  {
+   "title": "Madison Square Garden 1968",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_1968.jpeg"
+  },
+  {
+   "title": "Spencer Haywood College",
+   "author": "Unknown University of Detroit",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Spencer_Haywood_College.jpg"
+  },
+  {
+   "title": "Henry Hill (1980)",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Henry_Hill_(1980).jpg"
+  },
+  {
+   "title": "Charles R. Jonas Federal Building, Charlotte (Mecklenburg County, North Carolina)",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Charles_R._Jonas_Federal_Building,_Charlotte_(Mecklenburg_County,_North_Carolina).jpg"
+  },
+  {
+   "title": "Dream Team at the 1992 Summer Olympics",
+   "author": "Ken Hackman, U.S. Air Force",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Dream_Team_at_the_1992_Summer_Olympics.JPEG"
+  },
+  {
+   "title": "Kermit Washington",
+   "author": "Unknown American University",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Kermit_Washington.jpg"
+  },
+  {
+   "title": "Rudy Tomjanovich (1970)",
+   "author": "Unidentified (Ensian published by University of Michigan)",
+   "license": "Public domain",
+   "license_url": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Rudy_Tomjanovich_(1970).png"
+  }
+ ],
+ "stock": [
+  {
+   "title": "group of friends celebrating watching sports indoors",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/group-of-friends-celebrating-watching-sports-indoors-36766039/"
+  },
+  {
+   "title": "Boardroom Business",
+   "author": "Olu Eletu",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://stocksnap.io/photo/boardroom-business-KCIU8RWM09"
+  },
+  {
+   "title": "Two basketball referees standing side-by-side. The one on the left is holding a basketball.",
+   "author": "vatoyiit",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://wordpress.org/photos/photo/5996595b36/"
+  },
+  {
+   "title": "indoor basketball court with hoops in sports club",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/indoor-basketball-court-with-hoops-in-sports-club-5407033/"
+  },
+  {
+   "title": "a smartphone in close up photography",
+   "author": "Pexels contributor",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "page": "https://www.pexels.com/photo/a-smartphone-in-close-up-photography-7662059/"
+  }
+ ],
+ "ai_scenes": 168,
+ "thumb_credits": [],
+ "sources": [],
+ "extra_lines": [
+  "Maps: Natural Earth (public domain).",
+  "Fonts: Cinzel, Oswald and Playfair Display (SIL Open Font License).",
+  "Sound effects and image textures (grain, dust, scratches, tape noise) were generated for this video."
+ ]
+}
